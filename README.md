@@ -1,3 +1,9 @@
 # Final-Project-AED
-git commit -m "initial commit, added readme file"
+
+### Automated healthcare system
+
+About the project
+
+
+
 
