@@ -1,6 +1,6 @@
 # Final-Project-AED
 
-### Automated healthcare system
+### covid care
 
 About the project
 
