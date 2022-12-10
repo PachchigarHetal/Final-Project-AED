@@ -1,6 +1,6 @@
 # Final-Project-AED
 
-### covid care
+### Covi-Track
 
 About the project
 
