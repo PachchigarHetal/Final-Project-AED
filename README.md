@@ -1,9 +1,9 @@
-# Covid-Care
-> A shield of safety to track COVID-19
+# Covi-Track
+>A safety net to follow COVID-19
 
 ## About the project: 
 
-In the time of COVID, it is imminent that we have a system that tracks the records of patients, their vaccination reports, and their health in a city. The purpose of our project is to establish a network that connects a whole city to a hospital, vaccination centers, vaccine manufacturers and its related entities in a managed ecosystem. The ecosystem is capable to managed records of the population in the city, the hospitals in the city wuth the staff and doctors, the vaccination centere and the vaccination providers. Our goal is to provided an efficient solution to managed the records of a city's population.
+We urgently need a system that monitors patient records, immunization records, and health throughout a city in the era of COVID. The goal of our project is to create a network that links a hospital, immunization clinics, vaccine producers, and other associated businesses to an entire city in a controlled environment. The ecosystem may manage the records of the city's residents, its hospitals with employees and doctors, its vaccination centers, and its immunization providers. Our objective is to offer a practical method for managing the records of a city's populace.
 
 ## Problem Statement:
 
