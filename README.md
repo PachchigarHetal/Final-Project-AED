@@ -19,12 +19,3 @@ We have four enterprises, nine organizations, and ten roles.
 This displays our Ecosystem's resilience. We hope to develop a simple and user-friendly workflow for battling COVID-19 in a safer society. Our application's features are as follows.
 - Hospitals can identify patients and their medical history - Doctors and staff can check a patient's medical vaccination status and schedule vaccination appointments for them - Vaccination Centers can provide vaccines to individuals and hospital patients - Vaccination Centers can create a vaccine demand from Vaccine Manufacturers - Vaccine Manufacturers can create vaccines and supply them to the centers on demand
 
-
-## Screenshots:
-
-
-- [Hetal](https://github.com/hetalp)
-- [Japan](https://github.com/japangor)
-- [Meghna](https://github.com/shreyaghate02)
-
-
