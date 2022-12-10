@@ -7,41 +7,24 @@ We urgently need a system that monitors patient records, immunization records, a
 
 ## Problem Statement:
 
-Since 2020, the entire world has got severely affected by the COVID-19 virus. This created a global health disaster. We suffered heavy losses in terms of lives lost, revenue, the medical ecosystem was greatly challenged during this crisis.
-As of December 12, 2021, the number of both confirmed and presumptive positive cases of the COVID-19 disease reported in the United States had reached around 49.7 million and almost 794 thousand deaths were reported among these cases.
+The COVID-19 virus has been wreaking havoc on the entire world since 2020. This resulted in a worldwide health disaster. We suffered significant losses in terms of lives lost and revenue, and the medical ecosystem was severely tested during this crisis.
+As of December 2022, the number of confirmed and presumptive positive COVID-19 cases reported in the United States had reached around 49.7 million, with nearly 794 thousand deaths among these cases.
 
 
 ## Solution:
 
-![image](https://github.com/hetalpNEU/CovidCareAED/blob/main/images/ClassDiagram.png?raw=true)
 
-The purpose of our ecosystem is to establish a network of cities that connects a person to an organization and enterprise consisting of Vaccination Center, Vaccine Manufacturer, Hospital and a Testing Lab. We have designed an ecosystem where we manage the entire Vaccine Distribution, Vaccination Status for the citizens, COVID-19 testing, admit Patients for Doctor consultation and tracking their Vital Signs
-We have 4 Enterprises, 9 Organizations and 10 Roles
-This demonstrates the robustness of our Ecosystem. We aim to provide an easy and user friendly workflow for a safer world for fighting COVID-19. Following are the features of our application.
-- Hospitals can idetify patients and their medical history
-- Doctors and staff can check medical vaccination status of a patiet and schedule vaccination appointmens for them
-- Ability for Vaccination Centers to provide vaccines to a person and hospital patients
-- Ability for Vaccination Centers to create a vaccine demand from Vaccine Manufacturers
-- Ability for Vaccine Manufacturers to create vaccines and supply them to the the centers on demand
-
+The goal of our ecosystem is to create a network of cities that connects a person to a Vaccination Center, a Vaccine Manufacturer, a Hospital, and a Testing Lab. We have created an ecosystem in which we manage the complete Vaccine Distribution, Citizens' Vaccination Status, COVID-19 testing, admit Patients for Doctor Consultation, and track their Vital Signs.
+We have four enterprises, nine organizations, and ten roles.
+This displays our Ecosystem's resilience. We hope to develop a simple and user-friendly workflow for battling COVID-19 in a safer society. Our application's features are as follows.
+- Hospitals can identify patients and their medical history - Doctors and staff can check a patient's medical vaccination status and schedule vaccination appointments for them - Vaccination Centers can provide vaccines to individuals and hospital patients - Vaccination Centers can create a vaccine demand from Vaccine Manufacturers - Vaccine Manufacturers can create vaccines and supply them to the centers on demand
 
 
 ## Screenshots:
 
 
-![image](https://github.com/hetalpNEU/CovidCareAED/blob/main/images/Home.png?raw=true)
-
-![image](https://github.com/hetalpNEU/CovidCareAED/blob/main/images/Dashboard.png?raw=true)
-
-![image](https://github.com/hetalpNEU/CovidCareAED/blob/main/images/ManageEnterprise.png?raw=true)
-
-![image](https://github.com/hetalpNEU/CovidCareAED/blob/main/images/ManagePatients.png?raw=true)
-
-![image](https://github.com/hetalpNEU/CovidCareAED/blob/main/images/VaccineInventory.png?raw=true)
-
-## A Project by
-- [Pradnyal Gandhi](https://github.com/hetalp)
-- [Ayush Gupta](https://github.com/Ayushkailashgupta)
-- [Shreya Ghate](https://github.com/shreyaghate02)
+- [Hetal](https://github.com/hetalp)
+- [Japan](https://github.com/japangor)
+- [Meghna](https://github.com/shreyaghate02)
 
 
