@@ -15,7 +15,10 @@ Since 2020, the COVID-19 virus has wreaked havoc throughout the entire world. Th
 
 
 -Our ecosystem aims to build a network of cities that links a person to a hospital, a testing lab, a vaccination center, and a vaccine manufacturer. We have built an ecosystem in which we control the full vaccination program, monitor citizens' immunization records, conduct COVID-19 testing, admit patients for doctor consultations, and monitor their vital signs.
+
 -Nine organizations, four enterprises, and 10 roles make up our system.
+
+
 -This demonstrates the resiliency of our ecosystem. In order to combat COVID-19 in a more secure society, we want to provide a straightforward and user-friendly process.
 
 
