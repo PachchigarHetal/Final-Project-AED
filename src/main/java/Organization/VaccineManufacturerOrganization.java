@@ -13,7 +13,8 @@ import java.util.ArrayList;
  * @author meghi
  */
 public class VaccineManufacturerOrganization extends Organization {
-         public VaccineManufacturerOrganization(String name) {
+    
+     public VaccineManufacturerOrganization(String name) {
         super(Organization.Type.VaccineManufacturerAdmin.getValue(), name);
     }
     

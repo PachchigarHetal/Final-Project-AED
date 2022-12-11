@@ -13,7 +13,8 @@ import java.util.ArrayList;
  * @author meghi
  */
 public class SystemAdminOrganization extends Organization {
-       public SystemAdminOrganization(String name) {
+    
+     public SystemAdminOrganization(String name) {
         super(Organization.Type.SystemAdmin.getValue(), name);
     }
     
@@ -22,5 +23,5 @@ public class SystemAdminOrganization extends Organization {
         ArrayList<Role> roles = new ArrayList();
         roles.add(new SystemAdminRole());
         return roles;
-    }  
+    }
 }

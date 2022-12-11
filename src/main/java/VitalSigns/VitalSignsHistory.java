@@ -14,7 +14,7 @@ import java.util.Date;
  * @author meghi
  */
 public class VitalSignsHistory {
-     private ArrayList<VitalSigns> vitalDir; 
+ private ArrayList<VitalSigns> vitalDir; 
     
     public VitalSignsHistory(){
         vitalDir = new ArrayList<VitalSigns>();

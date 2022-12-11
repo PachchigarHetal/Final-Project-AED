@@ -12,8 +12,8 @@ import java.util.ArrayList;
  *
  * @author meghi
  */
-public class DeliveryManagerOrganization {
-      public DeliveryManagerOrganization(String name) {
+public class DeliveryManagerOrganization extends Organization { 
+    public DeliveryManOrganization(String name) {
         super(Type.DeliveryManager.getValue(), name);
     }
     

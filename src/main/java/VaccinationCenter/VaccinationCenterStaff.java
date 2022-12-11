@@ -11,8 +11,9 @@ import Business.Person.Person;
  * @author meghi
  */
 public class VaccinationCenterStaff extends Person{
-   public VaccinationCenterStaff(int personID, String name, String street, String zipcode, int age, String Community, String phoneNo, String email) {
+public VaccinationCenterStaff(int personID, String name, String street, String zipcode, int age, String Community, String phoneNo, String email) {
         super(personID, name, street, zipcode, age, Community, phoneNo, email);
     }
+    
      
 }

@@ -14,12 +14,10 @@ import java.util.Random;
  * @author meghi
  */
 public class Order extends WorkRequest{
-     //private City city;
-    private int quantity;
+     private int quantity;
     private String VaccineName;
     private int id=0;
     private UserAccount deliveryManager=null;
-    //private VaccineManufacturerOrganization vaccineManufacturer;
 
     public UserAccount getDeliveryManager() {
         return deliveryManager;

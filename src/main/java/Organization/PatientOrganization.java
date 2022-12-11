@@ -14,7 +14,8 @@ import java.util.ArrayList;
  * @author meghi
  */
 public class PatientOrganization extends Organization{
-        public PatientOrganization(String name) {
+    
+     public PatientOrganization(String name) {
         super(Organization.Type.Patient.getValue(), name);
     }
     
@@ -23,5 +24,5 @@ public class PatientOrganization extends Organization{
         ArrayList<Role> roles = new ArrayList();
         roles.add(new PatientRole());
         return roles;
-    } 
+    }
 }
