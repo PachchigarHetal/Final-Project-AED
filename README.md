@@ -3,19 +3,28 @@
 
 ## About the project: 
 
-We urgently need a system that monitors patient records, immunization records, and health throughout a city in the era of COVID. The goal of our project is to create a network that links a hospital, immunization clinics, vaccine producers, and other associated businesses to an entire city in a controlled environment. The ecosystem may manage the records of the city's residents, its hospitals with employees and doctors, its vaccination centers, and its immunization providers. Our objective is to offer a practical method for managing the records of a city's populace.
+In the COVID age, we require a system that keeps track of patient files, immunization data, and citywide health. Our project's objective is to build a network that, in a regulated setting, connects a hospital, immunization centers, vaccine manufacturers, and other related enterprises to an entire city. The city's people, its hospitals with staff and doctors, its immunization clinics, and its immunization providers may have their data managed by the ecosystem. Our goal is to present an approach that can be used to effectively manage the records of a city's citizens.
+
 
 ## Problem Statement:
 
-The COVID-19 virus has been wreaking havoc on the entire world since 2020. This resulted in a worldwide health disaster. We suffered significant losses in terms of lives lost and revenue, and the medical ecosystem was severely tested during this crisis.
-As of December 2022, the number of confirmed and presumptive positive COVID-19 cases reported in the United States had reached around 49.7 million, with nearly 794 thousand deaths among these cases.
+Since 2020, the COVID-19 virus has wreaked havoc throughout the entire world. This caused a global health catastrophe. We experienced tremendous losses in terms of lost lives and income, and this crisis put the medical ecosystem to the test severely.
 
 
 ## Solution:
 
 
-The goal of our ecosystem is to create a network of cities that connects a person to a Vaccination Center, a Vaccine Manufacturer, a Hospital, and a Testing Lab. We have created an ecosystem in which we manage the complete Vaccine Distribution, Citizens' Vaccination Status, COVID-19 testing, admit Patients for Doctor Consultation, and track their Vital Signs.
-We have four enterprises, nine organizations, and ten roles.
-This displays our Ecosystem's resilience. We hope to develop a simple and user-friendly workflow for battling COVID-19 in a safer society. Our application's features are as follows.
-- Hospitals can identify patients and their medical history - Doctors and staff can check a patient's medical vaccination status and schedule vaccination appointments for them - Vaccination Centers can provide vaccines to individuals and hospital patients - Vaccination Centers can create a vaccine demand from Vaccine Manufacturers - Vaccine Manufacturers can create vaccines and supply them to the centers on demand
+-Our ecosystem aims to build a network of cities that links a person to a hospital, a testing lab, a vaccination center, and a vaccine manufacturer. We have built an ecosystem in which we control the full vaccination program, monitor citizens' immunization records, conduct COVID-19 testing, admit patients for doctor consultations, and monitor their vital signs.
+-Nine organizations, four enterprises, and 10 roles make up our system.
+-This demonstrates the resiliency of our ecosystem. In order to combat COVID-19 in a more secure society, we want to provide a straightforward and user-friendly process.
+
+
+The features of our application are as follows.
+- Hospitals can track down people and learn about their medical histories
+
+- Doctors and employees can book vaccination appointments for patients and verify their medical immunization status 
+
+- Vaccination Centers can administer vaccines to individuals and hospital patients
+
+- Vaccination Centers can request vaccines from Vaccine Manufacturers, who will then produce and supply the requested vaccines to the centers.
 
