@@ -9,8 +9,8 @@ package Business.VaccineManufacturer;
  *
  * @author meghi
  */
-public class DeliveryManager {
-    private int DeliveryManagerId;
+public class DeliveryManager extends Person{
+ private int DeliveryManagerId;
 
     public DeliveryManager(int personID, String name, String street, String zipcode, int age, String Community, String phoneNo, String email) {
         super(personID, name, street, zipcode, age, Community, phoneNo, email);
@@ -23,5 +23,6 @@ public class DeliveryManager {
     public void setDeliveryManagerId(int DeliveryManagerId) {
         this.DeliveryManagerId = DeliveryManagerId;
     }
+    
     
 }
