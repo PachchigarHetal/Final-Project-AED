@@ -10,7 +10,7 @@ import java.util.Date;
  * @author meghi
  */
 public class VitalSigns {
-   private int BloodPressure;
+      private int BloodPressure;
     private double temperature;
     private int SPO2Level;
     private Date date;
