@@ -133,6 +133,7 @@ public class ManageVaccinationCenterStaffJPanel extends javax.swing.JPanel {
         add(lblManageInventory, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 10, 620, -1));
     }// </editor-fold>//GEN-END:initComponents
 
+//create functionality
     private void btnCreateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCreateActionPerformed
         Employee employee = enterprise.getEmployeeDirectory().createEmployee(txtName.getText());
         String userName = txtUserName.getText();
