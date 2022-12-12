@@ -26,7 +26,7 @@ import org.jfree.data.general.DefaultPieDataset;
 
 /**
  *
- * @author hetalp
+ * @author hetal
  */
 public class SystemAdminWorkAreaJPanel extends javax.swing.JPanel {
 
@@ -102,7 +102,7 @@ public class SystemAdminWorkAreaJPanel extends javax.swing.JPanel {
     private void jTreeValueChanged(javax.swing.event.TreeSelectionEvent evt) {
 
     }
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">                          
     private void initComponents() {
 
         btnManageCity = new javax.swing.JButton();
@@ -203,7 +203,7 @@ public class SystemAdminWorkAreaJPanel extends javax.swing.JPanel {
         jLabel6.setForeground(new java.awt.Color(102, 102, 102));
         jLabel6.setText("Create Person ");
         add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 160, -1, -1));
-    }// </editor-fold>//GEN-END:initComponents
+    }// </editor-fold>                        
 
    private void createChart() {
         DefaultPieDataset dataset = new DefaultPieDataset();
@@ -255,33 +255,33 @@ public class SystemAdminWorkAreaJPanel extends javax.swing.JPanel {
         }
     }
 
-    private void btnCovidActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCovidActionPerformed
+    private void btnCovidActionPerformed(java.awt.event.ActionEvent evt) {                                         
         createChart();
 
-    }//GEN-LAST:event_btnCovidActionPerformed
+    }                                        
 
-    private void btnManageEnterpriseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnManageEnterpriseActionPerformed
+    private void btnManageEnterpriseActionPerformed(java.awt.event.ActionEvent evt) {                                                    
         ManageEnterprisesJPanel manageTestCenterJPanel = new ManageEnterprisesJPanel(userProcessContainer, system);
         userProcessContainer.add("manageTestCenterJPanel", manageTestCenterJPanel);
         CardLayout layout = (CardLayout) userProcessContainer.getLayout();
         layout.next(userProcessContainer);
-    }//GEN-LAST:event_btnManageEnterpriseActionPerformed
+    }                                                   
 
-    private void btnManageCityActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnManageCityActionPerformed
+    private void btnManageCityActionPerformed(java.awt.event.ActionEvent evt) {                                              
         ManageCityJPanel manageHospitalJPanel = new ManageCityJPanel(userProcessContainer, system);
         userProcessContainer.add("manageHospitalJPanel", manageHospitalJPanel);
         CardLayout layout = (CardLayout) userProcessContainer.getLayout();
         layout.next(userProcessContainer);
-    }//GEN-LAST:event_btnManageCityActionPerformed
+    }                                             
 
-    private void btnManageEnterpriseAdminsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnManageEnterpriseAdminsActionPerformed
+    private void btnManageEnterpriseAdminsActionPerformed(java.awt.event.ActionEvent evt) {                                                          
         ManageEnterpriseAdminsJPanel manageVaccinationCenterJPanel = new ManageEnterpriseAdminsJPanel(userProcessContainer, system);
         userProcessContainer.add("manageVaccinationCenterJPanel", manageVaccinationCenterJPanel);
         CardLayout layout = (CardLayout) userProcessContainer.getLayout();
         layout.next(userProcessContainer);
-    }//GEN-LAST:event_btnManageEnterpriseAdminsActionPerformed
+    }                                                         
 
-    private void btnManagePerson1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnManagePerson1ActionPerformed
+    private void btnManagePerson1ActionPerformed(java.awt.event.ActionEvent evt) {                                                 
         // TODO add your handling code here:
         ManagePersonJPanel managePersonJPanel = new ManagePersonJPanel(userProcessContainer, system);
         userProcessContainer.add("managePersonJPanel", managePersonJPanel);
@@ -289,10 +289,10 @@ public class SystemAdminWorkAreaJPanel extends javax.swing.JPanel {
         layout.next(userProcessContainer);
         
 
-    }//GEN-LAST:event_btnManagePerson1ActionPerformed
+    }                                                
 
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+    // Variables declaration - do not modify                     
     private javax.swing.JButton btnCovid;
     private javax.swing.JButton btnManageCity;
     private javax.swing.JButton btnManageEnterprise;
@@ -306,5 +306,5 @@ public class SystemAdminWorkAreaJPanel extends javax.swing.JPanel {
     private javax.swing.JLabel jLabel6;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTree jTree;
-    // End of variables declaration//GEN-END:variables
+    // End of variables declaration                   
 }

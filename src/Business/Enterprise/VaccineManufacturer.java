@@ -28,7 +28,6 @@ public class VaccineManufacturer extends Enterprise {
     public void setVaccineDitrectory(VaccineDirectory vaccineDitrectory) {
         this.vaccineDirectory = vaccineDitrectory;
     }
-     
 
     @Override
     public ArrayList<Role> getSupportedRole() {
