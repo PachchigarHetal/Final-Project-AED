@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package Business.Enterprise;
+
 import Business.Person.Person;
 import Business.UserAccount.UserAccount;
 import java.util.ArrayList;
@@ -28,7 +29,7 @@ public class EnterpriseDirectory {
     }
     
     //Create enterprise
-    public Enterprise createAddEnterprise(String name, Enterprise.EnterpriseType type, int id){
+    public Enterprise createAndAddEnterprise(String name, Enterprise.EnterpriseType type, int id){
         Enterprise enterprise=null;
         if( null!=type)switch (type) {
                 case Hospital:
@@ -56,7 +57,7 @@ public class EnterpriseDirectory {
             }
             return enterprise;
     }
-    public boolean checkIfEnterpriseNameIsDiff(String name){
+    public boolean checkIfEnterpriseNameIsUnique(String name){
         for (Enterprise e : enterpriseList){
             if (e.getOrganizationDirectory().getOrganization(name).equals(name))
                 return false;
@@ -65,7 +66,7 @@ public class EnterpriseDirectory {
     }
 
     
-        public boolean checkIfIDIsDiff(int ID){
+        public boolean checkIfIDIsUnique(int ID){
         for (Enterprise  e : enterpriseList){
             if (e.getEnterpriseId()==ID)
                 return false;

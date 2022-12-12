@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import Business.Organization.Organization;
 /**
  *
- * @author hetal
+ * @author MyPC1
  */
 public class EcoSystem extends Organization{
     
